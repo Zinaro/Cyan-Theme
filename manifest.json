@@ -1,0 +1,40 @@
+{
+  "manifest_version": 2,
+  "version": "1.1.3",
+  "name": "Cyan Theme",
+  "theme": {
+    "colors": {
+      "toolbar": "rgba(21, 255, 0, 0.15)",
+      "toolbar_text": "rgb(0, 255, 216)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(0, 255, 216)",
+      "toolbar_field": "rgba(0, 0, 0, 0.43)",
+      "toolbar_field_text": "rgb(0, 255, 216)",
+      "tab_line": "rgb(0, 0, 0)",
+      "popup": "rgba(0, 0, 0, 0.43)",
+      "popup_text": "rgb(0, 255, 216)",
+      "button_background_active": "rgba(21, 255, 0, 0.15)",
+      "button_background_hover": "rgba(21, 255, 0, 0.15)",
+      "frame_inactive": "rgba(21, 255, 0, 0.15)",
+      "icons_attention": "rgba(21, 255, 0, 0.57)",
+      "icons": "rgb(0, 255, 216)",
+      "ntp_background": "rgb(81, 1, 96)",
+      "ntp_text": "rgb(0, 255, 216)",
+      "popup_border": "rgba(21, 255, 0, 0.57)",
+      "popup_highlight": "rgba(21, 255, 0, 0.57)",
+      "sidebar_border": "rgba(21, 255, 0, 0.57)",
+      "sidebar_highlight_text": "rgb(0, 255, 216)",
+      "sidebar_text": "rgb(0, 255, 216)",
+      "sidebar": "rgb(81, 1, 96)",
+      "tab_background_separator": "rgb(0, 255, 216)",
+      "tab_loading": "rgb(0, 255, 216)",
+      "tab_selected": "rgba(0, 0, 0, 0.43)",
+      "toolbar_field_border_focus": "rgb(0, 255, 216)",
+      "toolbar_field_border": "rgba(21, 255, 0, 0.57)",
+      "toolbar_field_focus": "rgba(0, 0, 0, 0.43)",
+      "toolbar_field_highlight": "rgba(0, 255, 216, 0.85)",
+      "toolbar_field_separator": "rgb(0, 255, 216)",
+      "toolbar_top_separator": "rgba(21, 255, 0, 0.57)"
+    }
+  }
+}
